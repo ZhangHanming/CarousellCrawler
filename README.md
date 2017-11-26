@@ -1,4 +1,4 @@
-# A Simple Crawler for Carousell
+# A Simple Searcher for Carousell
 
 Library: **BeautifulSoup4**, **requests**
 
